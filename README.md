@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albertmarc8
-- 👀 I’m interested in Programming topics, from low-level programming such as FPGAs to high-level such as Python or Java.
+- 👀 I’m interested in Programming topics, from low-level programming such as C, C++, FPGAs to high-level such as Python or Java.
 - 🌱 I’m currently on my last year of my Bachelor's Degree studying Computer Science, specializing on Computer Engineering.
 - 📫 How to reach me: al387389@uji.es
 
